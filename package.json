@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": "v16.14.2"
   },
   "dependencies": {
     "3id-did-provider": "^1.1.1",
@@ -34,3 +34,6 @@
     "eslint-config-next": "12.1.4"
   }
 }
+
+
+
